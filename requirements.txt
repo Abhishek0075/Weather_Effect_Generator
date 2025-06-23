@@ -58,6 +58,7 @@ requests==2.32.4
 safetensors==0.5.3
 setuptools==80.9.0
 six==1.17.0
+scikit-image
 stack_data==0.6.3
 sympy==1.14.0
 timm==1.0.15
